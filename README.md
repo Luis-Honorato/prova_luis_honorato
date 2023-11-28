@@ -4,4 +4,4 @@
 ### Período: 6°
 ### RA: 2014472
 ### Professor: Lucas Gonçalves
-### Disciplina: Progamação Orientada a Objeto
+### Disciplina: Desenvolvimento Mobile
